@@ -30,7 +30,52 @@ WARP (Workflow-Aware Risk & Procurement Agent) transforms Piubelle's procurement
 5. **Pedro Pinto**
 
 ---
+# 🔗 Live Demo
 
+**Launch the App** → https://warp-piubelle-aqv6uttvueu6fgrxcbg2vi.streamlit.app/
+
+Ask the agent anything about supplier management:
+
+* **"Which suppliers have Red alerts today?"** — Real-time delay detection
+* **"Generate a follow-up email for Supplier X"** — AI drafts professional follow-ups (3 tone levels)
+* **"Update the ERP date for PO12045"** — Preview & confirm delivery date changes
+* **"Show the supplier risk scores"** — View WARP scores (1–10) with trend analysis
+* **"Generate this week's management report"** — Executive summary of delays & financial impact
+* **"What's our OTIF rate this month?"** — Live KPI dashboard with trending
+* **"Which suppliers are deteriorating?"** — Identify suppliers with ↓ trend (declining performance)
+* **"Show me all Amber alerts"** — Alerts within 10 days of delivery requiring follow-up
+
+---
+
+## Quick Start
+
+1. **Sign in** as one of 4 buyers (Ana Silva, João Santos, Maria Costa, Pedro Oliveira)
+2. **View Dashboard** → See real-time KPIs and alert distribution
+3. **Click a Red Alert** → Review supplier details and WARP risk score
+4. **Generate Draft** → AI creates a follow-up email (select tone: Routine / Urgent / Escalation)
+5. **Approve & Send** → Confirm action; it's logged to the task board
+6. **View Weekly Report** → Aggregated metrics ready for leadership
+
+---
+
+## Features Demonstrated
+
+| Feature | What It Does |
+|---------|-------------|
+| **Order Monitoring** | Real-time PO status vs. delivery dates |
+| **Delay Detection** | Alerts: 🔴 Red (overdue), 🟡 Amber (within 10d), 🟠 Proactive (at-risk), 🟢 OK |
+| **Risk Scoring** | Supplier score (1–10) based on 6 dimensions + trend arrow |
+| **Task Board** | Prioritized tasks by alert level, assigned to buyers |
+| **Follow-up Drafting** | Claude AI generates emails in 3 tones (Routine/Urgent/Escalation) |
+| **ERP Updates** | Prepare, preview, confirm new delivery dates (HITL gate) |
+| **KPI Dashboard** | Live metrics: OTIF rate, penalties, air freight, cost-at-risk |
+| **Management Reports** | Weekly executive summary (prose, no jargon) |
+
+---
+
+## How It Works (Human-in-the-Loop)
+
+---
 ## 🚀 Quick Start
 
 ### 1. Clone the Repository
