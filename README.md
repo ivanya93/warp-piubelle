@@ -23,11 +23,11 @@ WARP (Workflow-Aware Risk & Procurement Agent) transforms Piubelle's procurement
 **Status:** ✅ Working prototype (Phases 1-8 complete)  
 **Deadline:** April 8, 2026  
 **Team:** Master Business Analytics & AI Group Project - Porto Business School, Portugal:
-    - **Ivana Ruiz**
-    - **Marisa Fernandes**
-    - **Olena Kovalchuk**
-    - **Francisco Lé**
-    - **Pedro Pinto**
+1. **Ivana Ruiz**
+2. **Marisa Fernandes**
+3. **Olena Kovalchuk**
+4. **Francisco Lé**
+5. **Pedro Pinto**
 
 ---
 
@@ -103,9 +103,9 @@ warp-piubelle/
 │       └── airfreight_incidents.csv
 │
 ├── agent/                            # Core AI logic
-│   ├── init.py
+│   ├── __init__.py
 │   ├── delay_detector.py             # Phase 3: Alert classification (Red/Amber/OK)
-│   ├── scorer.py                     # Phase 2: Supplier risk scoring (1-10)
+│   ├── scorer.py                     # Phase 2: Supplier risk scoring (1–10)
 │   ├── recommender.py                # Action recommendations
 │   └── claude_agent.py               # Claude API integration
 │
@@ -117,13 +117,13 @@ warp-piubelle/
 │   └── 6_Management_Report.py        # Phase 8: Weekly KPI report (Claude AI)
 │
 ├── utils/                            # Helper utilities
-│   ├── init.py
+│   ├── __init__.py
 │   ├── data_loader.py                # Cached data loading (@st.cache_data)
 │   ├── state.py                      # Session state management
 │   └── formatters.py                 # Currency, date, score formatting
 │
 ├── tests/                            # Pytest test suite
-│   ├── init.py
+│   ├── __init__.py
 │   ├── test_delay_detector.py        # Boundary condition tests
 │   └── test_scorer.py                # Score validation tests
 │
@@ -319,7 +319,7 @@ Run this before pitching to verify everything works:
 
 ---
 
-## 🤝 Team Members
+## 🤝 Procurement Team
 
 - **Ana Silva** — Raw Materials, Weaving
 - **João Santos** — Cutting, Sewing
@@ -330,9 +330,9 @@ Run this before pitching to verify everything works:
 
 ## 📝 License
 
-Proprietary — Piubelle Supplier Management System  
-MBA Business Analytics & AI — Group Project
-
+Proprietary — Team Members
+Master in Business Analytics & AI — Group Project
+Gen AI & AI Agents module
 ---
 
 ## ✉️ Support
