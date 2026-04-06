@@ -87,7 +87,7 @@ WARP uses a six-dimension scoring model (1–10) to assess supplier risk:
 - **Email responsiveness** (10%) — Communication
 - **Trend** (5%) — Direction signal
 
-**See [WARP_Scoring_Guide.md](docs/WARP_Scoring_Guide.md)** for detailed calculations, examples, and GDPR-compliant alternative supplier search.
+**See [WARP_Scoring_Guide.md] ** for detailed calculations, examples, and GDPR-compliant alternative supplier search.
 ---
 ## 🚀 Quick Start
 
