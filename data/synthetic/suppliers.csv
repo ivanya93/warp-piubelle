@@ -1,0 +1,201 @@
+supplier_id,supplier_name,country,material_category,contact_email,contact_phone,onboarded_date,risk_score_initial
+SUP0001,"Rodriguez, Figueroa and Sanchez",China,Raw Materials,jillrhodes@example.net,296-500-1338,2025-02-13,7.7
+SUP0002,"Santos, Gardner and Robinson",Spain,Weaving,lisa02@example.net,(254)923-5116x15594,2024-06-24,7.6
+SUP0003,"Martinez, Nielsen and Miller",China,Finishing,maria95@example.net,610.934.1316,2024-10-09,6.3
+SUP0004,"Flowers, Martin and Kelly",Portugal,Raw Materials,jacqueline19@example.net,(783)227-6483,2024-09-26,3.0
+SUP0005,Underwood LLC,India,Finishing,nadams@example.net,001-653-876-7242x388,2025-02-10,6.1
+SUP0006,"Ross, Robinson and Bright",China,Finishing,ddavis@example.org,(626)291-6697,2022-11-28,3.0
+SUP0007,"Le, Maldonado and Herrera",India,Cutting,kayla51@example.com,(727)404-8281x48932,2025-03-23,7.8
+SUP0008,"Ashley, Nielsen and Sellers",Spain,Sewing,tracy15@example.com,403.491.1718,2023-05-10,3.5
+SUP0009,"Alvarez, Pierce and Baker",Spain,Cutting,ibrandt@example.net,001-734-265-7871x331,2024-09-08,1.8
+SUP0010,"Spencer, Chapman and Smith",Portugal,Cutting,perezrebecca@example.com,983-547-3829,2023-05-02,6.4
+SUP0011,Aguirre-Lee,Vietnam,Raw Materials,hopkinsmichael@example.com,401.806.5133x387,2022-09-08,5.8
+SUP0012,Ramirez and Sons,Turkey,Raw Materials,ramosmichelle@example.net,908-501-3267,2022-03-02,3.6
+SUP0013,Barrera-Martin,China,Finishing,gallowayjoseph@example.com,268-272-3430x9805,2023-03-27,6.2
+SUP0014,"Woods, Calhoun and Schmidt",China,Raw Materials,yuchristopher@example.org,291-336-1939,2025-01-02,7.0
+SUP0015,Sandoval-Cunningham,Vietnam,Cutting,sarah35@example.org,362-547-5107x991,2024-10-24,8.7
+SUP0016,"Baker, Mahoney and Ibarra",Vietnam,Raw Materials,mikemoore@example.net,001-449-680-8412x411,2023-02-17,3.5
+SUP0017,Jacobs-Robbins,China,Cutting,gracefarrell@example.net,840.216.4005x2427,2024-05-07,4.3
+SUP0018,Jones Ltd,Spain,Cutting,amydavenport@example.net,+1-526-520-4505,2021-04-29,9.4
+SUP0019,"Garcia, Deleon and Henson",China,Raw Materials,vdickson@example.org,622.460.2563,2021-11-05,6.7
+SUP0020,"Rodriguez, Brennan and Garrison",India,Weaving,jamessellers@example.com,733-203-6541x4586,2024-05-06,5.2
+SUP0021,Wiley LLC,Italy,Finishing,beverlyterrell@example.org,896-555-6981,2024-01-12,7.2
+SUP0022,Williams-Graham,Vietnam,Raw Materials,michaeljones@example.net,895-814-8465x64823,2023-12-23,8.4
+SUP0023,"Adkins, Thompson and Carroll",Vietnam,Cutting,akelley@example.com,336-699-5777x3872,2023-01-05,3.4
+SUP0024,"Beck, Harvey and Davis",Spain,Finishing,emilywalker@example.org,(500)837-9176,2023-07-01,2.9
+SUP0025,Ross-Hernandez,Turkey,Sewing,staffordmichelle@example.org,001-763-928-7083x17278,2021-08-28,5.1
+SUP0026,"Briggs, Mcclain and Simmons",Italy,Weaving,vmerritt@example.com,643.748.7347x143,2023-11-17,7.7
+SUP0027,Orozco-Miller,India,Cutting,jessebenson@example.net,516.865.8760,2021-12-25,4.9
+SUP0028,Stein-Silva,India,Sewing,gateskathy@example.com,805.946.6889x3734,2023-03-26,3.0
+SUP0029,Price Ltd,Spain,Finishing,dramsey@example.org,+1-280-669-9016x272,2022-06-30,1.8
+SUP0030,Murphy-Gibson,Portugal,Raw Materials,kathleen64@example.com,517-208-0531x003,2024-05-27,6.6
+SUP0031,"Hernandez, Martinez and Caldwell",Vietnam,Sewing,stevenscott@example.com,(699)812-4190,2021-12-01,1.6
+SUP0032,David-Gonzalez,Turkey,Finishing,curtisbarton@example.net,+1-819-905-8651x850,2022-08-21,5.8
+SUP0033,Hamilton LLC,India,Raw Materials,bzimmerman@example.org,001-684-998-7769x4531,2021-06-12,7.5
+SUP0034,Christensen PLC,China,Finishing,frogers@example.com,(273)554-5494,2023-10-07,7.9
+SUP0035,Allen Group,Italy,Raw Materials,ppeters@example.net,777.801.4363x4957,2023-08-13,4.9
+SUP0036,"Pierce, Bell and Chavez",Turkey,Raw Materials,john13@example.com,682-333-7498,2023-10-14,9.7
+SUP0037,Phillips LLC,Vietnam,Weaving,kevinerickson@example.org,900-984-2710x947,2022-06-01,9.2
+SUP0038,Lopez-Williams,Vietnam,Cutting,ewilson@example.com,519.802.2941x3186,2021-09-05,5.6
+SUP0039,Kerr-Evans,Spain,Weaving,ntorres@example.org,+1-213-834-1232x812,2023-03-02,7.9
+SUP0040,Norris-Harrison,India,Finishing,halljasmine@example.net,413.349.3618x324,2025-04-04,6.4
+SUP0041,Martin LLC,Turkey,Raw Materials,scott74@example.net,(248)387-7190x6594,2024-08-19,9.4
+SUP0042,Hayden PLC,Vietnam,Cutting,keyemily@example.com,001-802-978-7429,2023-12-02,1.5
+SUP0043,Harrison Group,India,Raw Materials,manuel12@example.com,(274)968-0715x45168,2024-10-12,7.6
+SUP0044,Brown-Stone,Vietnam,Raw Materials,wgarrett@example.org,548.424.7710,2022-04-11,7.9
+SUP0045,Pierce-Tran,Spain,Sewing,walkermaureen@example.org,412.874.8467x737,2022-03-07,2.5
+SUP0046,Weeks PLC,India,Finishing,michellehill@example.com,784-804-4997x27875,2022-11-21,9.7
+SUP0047,Cantu-Kane,India,Weaving,ashleyhall@example.com,7573662702,2021-04-06,3.8
+SUP0048,Garcia-Lozano,China,Cutting,bowenrobert@example.net,(817)745-9615,2022-10-21,9.1
+SUP0049,"Higgins, Malone and Brennan",Turkey,Raw Materials,williamsonjimmy@example.net,631-761-1724x0050,2023-11-15,3.0
+SUP0050,Jordan-Sanchez,Italy,Raw Materials,yknight@example.org,(421)596-9379,2021-12-18,6.0
+SUP0051,Little-Stevens,India,Weaving,nolansteven@example.com,+1-982-317-5946x47436,2025-03-22,1.6
+SUP0052,James LLC,China,Raw Materials,victoria40@example.net,(640)490-9743x9533,2023-12-24,1.6
+SUP0053,"Davis, Burton and Williams",Portugal,Cutting,xjohnson@example.net,(714)656-2328,2024-11-11,5.6
+SUP0054,Scott Group,Italy,Sewing,julie51@example.com,623-368-5160,2024-01-23,5.9
+SUP0055,Richardson-Curry,China,Finishing,brenda51@example.net,970.698.5931,2022-01-11,5.3
+SUP0056,"Ortiz, Taylor and Shah",Vietnam,Sewing,wendy11@example.org,+1-826-375-8692,2022-12-24,2.7
+SUP0057,Gilbert-Crosby,Portugal,Sewing,antonio53@example.com,935.315.8506x431,2023-04-11,4.8
+SUP0058,"Lewis, Fowler and Maddox",Turkey,Raw Materials,buchananjohn@example.org,001-431-283-9335,2021-06-26,6.9
+SUP0059,Garrison-Thomas,China,Raw Materials,amberlindsey@example.org,+1-302-305-3950x24026,2024-12-02,4.6
+SUP0060,West-Cox,Italy,Raw Materials,hayesjeffrey@example.net,3849700766,2023-11-13,2.7
+SUP0061,"Browning, Jones and Miller",India,Sewing,cameronhill@example.net,001-885-369-8478,2024-06-22,4.8
+SUP0062,"Wilson, Pena and Rich",Italy,Sewing,russellbeasley@example.com,376-361-5654x52711,2023-11-11,8.9
+SUP0063,Davis-Rodgers,Portugal,Sewing,angelawillis@example.net,+1-651-765-6049,2022-03-05,1.9
+SUP0064,Lane and Sons,China,Finishing,dianewalker@example.org,(285)614-9368x998,2025-03-06,9.7
+SUP0065,White Ltd,Vietnam,Weaving,sandra50@example.org,(896)812-0183,2024-04-30,4.7
+SUP0066,Peterson-Wood,Turkey,Weaving,kimberly99@example.org,9229901476,2023-01-05,9.1
+SUP0067,Nelson-Fischer,Spain,Sewing,reeddaniel@example.net,+1-497-684-0369x00343,2025-04-01,9.9
+SUP0068,Murphy-Smith,Italy,Sewing,ythompson@example.net,001-738-885-1606x071,2023-08-30,4.8
+SUP0069,"Sullivan, Bowman and Roberts",China,Finishing,usmith@example.org,+1-875-616-1369x681,2021-07-20,7.5
+SUP0070,"Morgan, Cook and Jackson",Spain,Weaving,schmidtjames@example.com,(923)912-4329x212,2023-08-07,3.0
+SUP0071,"Wolf, Cole and Glass",Portugal,Finishing,michelle52@example.com,377-644-9058,2022-03-22,1.5
+SUP0072,Hayes-Brown,Italy,Raw Materials,chase19@example.net,267.998.0793x59782,2024-12-24,6.3
+SUP0073,Shepherd LLC,India,Finishing,wagnergerald@example.org,001-777-288-9255x466,2024-05-18,1.5
+SUP0074,"Holland, Jones and Davis",India,Raw Materials,umitchell@example.net,+1-625-819-2546x291,2024-03-21,1.6
+SUP0075,"Conner, Li and Santiago",Portugal,Weaving,lucasrodney@example.com,4544235733,2022-12-31,2.1
+SUP0076,Phillips Inc,India,Weaving,stanleynancy@example.net,(296)822-2927,2022-01-06,6.4
+SUP0077,Rhodes-Young,India,Raw Materials,wbishop@example.net,838.834.7359x774,2022-11-29,6.9
+SUP0078,Montoya PLC,India,Finishing,moniquewilliams@example.com,(881)381-4124x782,2023-06-28,9.4
+SUP0079,Velasquez LLC,Spain,Cutting,perryrandy@example.com,461.453.0515,2023-12-04,3.4
+SUP0080,Mitchell Group,Spain,Cutting,katherineharrison@example.net,8103432898,2022-09-12,3.8
+SUP0081,Young-Martinez,Vietnam,Raw Materials,robertbauer@example.com,417-698-0893,2025-03-17,5.1
+SUP0082,Smith-Gomez,India,Raw Materials,qlopez@example.org,651.288.8880x67065,2024-11-06,5.8
+SUP0083,Kramer-Cooper,India,Cutting,ingramjill@example.com,(405)385-2772,2024-07-08,9.4
+SUP0084,"Parsons, Ellis and Carter",Portugal,Weaving,moodynina@example.com,386-787-4034x5054,2023-03-11,3.6
+SUP0085,Preston-Paul,Turkey,Finishing,lmorgan@example.com,001-675-784-1616x928,2021-04-26,3.7
+SUP0086,Miller Ltd,Vietnam,Finishing,kirk96@example.org,001-775-470-5964x016,2025-03-20,7.0
+SUP0087,Thomas PLC,India,Cutting,ejohnson@example.org,001-455-769-0927x55719,2021-07-17,1.9
+SUP0088,Edwards-Ramirez,Spain,Cutting,johnsonjacob@example.net,(381)944-7394x7312,2024-08-12,9.0
+SUP0089,Roach Group,China,Finishing,cochrantammy@example.com,+1-451-588-4422x58313,2024-05-22,3.5
+SUP0090,Johnson-Spencer,India,Weaving,tanner82@example.net,314-467-8669,2023-05-04,2.8
+SUP0091,Day-Cole,China,Cutting,david89@example.org,001-626-380-1824x22535,2022-06-05,5.4
+SUP0092,Gonzalez-Huber,Vietnam,Raw Materials,david49@example.net,782-299-2299,2024-09-28,6.7
+SUP0093,Miller Ltd,Vietnam,Cutting,debra96@example.net,+1-407-984-4736x4710,2025-01-05,1.0
+SUP0094,Washington-Harris,Vietnam,Weaving,larryhiggins@example.net,(962)558-8153x714,2021-09-09,9.8
+SUP0095,Davis LLC,Spain,Sewing,alin@example.org,(959)653-2787,2022-03-03,7.4
+SUP0096,Johnson-Landry,India,Raw Materials,nlevy@example.net,(400)647-9748x016,2024-08-19,1.7
+SUP0097,"Diaz, Powell and Williams",China,Weaving,hudsonjames@example.net,716-787-8499x1216,2022-03-15,1.3
+SUP0098,"Mcmillan, Fischer and Gonzalez",Italy,Finishing,cporter@example.org,(757)787-2982,2022-03-01,2.3
+SUP0099,Long PLC,Spain,Raw Materials,brittney88@example.net,994.670.5516x9409,2023-07-14,4.3
+SUP0100,"Patton, Parsons and Lane",Vietnam,Raw Materials,silvageorge@example.net,001-496-823-0913x0756,2023-04-04,2.9
+SUP0101,"Harris, Shaw and Carr",Spain,Raw Materials,vsalas@example.net,7284385786,2023-04-12,8.0
+SUP0102,Barr-Peterson,Vietnam,Sewing,erica49@example.com,934.784.3443,2021-10-12,7.7
+SUP0103,Bailey-Peck,Spain,Weaving,keith98@example.com,(652)640-4157x4733,2024-04-08,8.9
+SUP0104,Rodriguez Ltd,Portugal,Weaving,johnsantiago@example.net,230.416.5712,2023-05-26,8.0
+SUP0105,Delgado-Gilmore,Turkey,Weaving,mwoods@example.com,440-619-3802x62067,2023-10-07,2.4
+SUP0106,Smith PLC,China,Raw Materials,hebertmatthew@example.com,+1-688-472-8743x1527,2023-02-12,8.8
+SUP0107,Doyle LLC,Vietnam,Sewing,gregorychase@example.com,(585)916-1227x53046,2024-01-06,2.8
+SUP0108,Finley-Turner,Turkey,Cutting,greenmichael@example.org,6177426841,2023-07-20,8.4
+SUP0109,"Walker, Bernard and Mendoza",Vietnam,Weaving,madkins@example.com,(387)283-3918x78519,2024-01-05,1.2
+SUP0110,"Leach, Harris and Herrera",Spain,Sewing,markmeyer@example.org,+1-239-971-8707x28679,2023-06-03,3.5
+SUP0111,"Roman, Cummings and Foster",Portugal,Cutting,reesebeth@example.org,(851)980-1704x62265,2023-04-17,6.8
+SUP0112,Bennett-Vega,Turkey,Finishing,desireebailey@example.org,+1-868-823-0047,2023-05-28,9.5
+SUP0113,Wright LLC,Portugal,Cutting,joshuapineda@example.net,001-210-569-0331x19079,2024-04-05,6.2
+SUP0114,"Williams, Gonzales and Fernandez",Italy,Raw Materials,taylorvictoria@example.org,001-695-299-5342x8364,2024-08-26,6.4
+SUP0115,"Fry, Hobbs and Buck",Italy,Cutting,dpeters@example.com,+1-568-656-6246x2873,2022-10-25,6.5
+SUP0116,"Thomas, Ford and Brown",India,Raw Materials,jfaulkner@example.net,(363)543-5175,2023-02-07,9.1
+SUP0117,Adams Ltd,Spain,Cutting,russojacob@example.net,001-583-873-5403x3173,2025-01-05,7.4
+SUP0118,Arnold LLC,Portugal,Finishing,powens@example.com,245-587-7175x3556,2022-03-30,7.2
+SUP0119,"Thomas, Green and Donovan",China,Weaving,mphillips@example.com,969.937.8547,2023-03-22,4.9
+SUP0120,Oconnor LLC,China,Cutting,donaldpayne@example.org,+1-508-301-0062,2021-10-07,3.8
+SUP0121,"Hernandez, Robinson and Bryant",Vietnam,Raw Materials,williamsonelizabeth@example.net,270.808.8600x8484,2023-07-30,5.6
+SUP0122,Rodriguez Inc,China,Sewing,johnharvey@example.com,(246)315-6793x341,2023-06-07,4.6
+SUP0123,Gray-Tran,Italy,Finishing,walshjacqueline@example.org,365.691.8033x9740,2024-07-19,2.7
+SUP0124,"Elliott, Johnson and Mcfarland",China,Sewing,alexis39@example.org,001-761-242-9396x85621,2021-06-18,7.7
+SUP0125,Kim Inc,Spain,Finishing,cassie99@example.com,001-350-647-7358x66296,2022-01-26,3.7
+SUP0126,Marquez Inc,India,Raw Materials,eric26@example.com,(811)904-7541x212,2023-07-23,3.6
+SUP0127,"Peters, Russell and Johnson",Turkey,Finishing,angela99@example.com,(404)666-1839x8262,2021-11-10,6.9
+SUP0128,Adams-Thomas,Turkey,Sewing,ryanfisher@example.com,354-437-9937,2022-10-13,7.1
+SUP0129,Smith-Foster,India,Sewing,vbrock@example.com,969-524-5937x52654,2024-04-23,6.9
+SUP0130,Bennett-Velasquez,Italy,Finishing,kdiaz@example.org,001-382-880-7374,2021-07-16,6.7
+SUP0131,"Porter, Schultz and Allen",Italy,Raw Materials,jennifermccormick@example.org,397.396.8868x058,2023-12-11,7.1
+SUP0132,Sandoval LLC,Spain,Weaving,deborahwilliams@example.net,+1-565-961-0143x88899,2024-06-08,1.2
+SUP0133,Myers-Barton,Spain,Sewing,michaeljohnson@example.org,961-312-5457x3875,2021-11-01,8.6
+SUP0134,Bowen-Chavez,Portugal,Sewing,evanslisa@example.org,7518238282,2022-12-09,9.0
+SUP0135,Hall-Sullivan,India,Weaving,jacobsandoval@example.com,5936796603,2021-05-10,4.5
+SUP0136,"Stokes, Brown and Garcia",Turkey,Weaving,michaelgonzalez@example.org,978-459-6969x155,2024-06-07,6.9
+SUP0137,"Mccarthy, Evans and Mendez",Portugal,Raw Materials,powerslawrence@example.org,412-952-8669x2966,2022-11-17,3.0
+SUP0138,"Medina, Ellison and Arias",Vietnam,Finishing,angelaburns@example.org,(557)890-5072,2022-08-28,1.5
+SUP0139,"Wagner, Simpson and Cohen",Spain,Raw Materials,cmckinney@example.com,(619)403-4043,2022-09-14,2.2
+SUP0140,Cunningham-Barton,Turkey,Finishing,hdunn@example.net,848-358-0783,2022-02-16,6.4
+SUP0141,"Greer, Potter and Evans",Vietnam,Sewing,colemichael@example.org,513.239.5962x923,2021-10-29,8.3
+SUP0142,"Bell, Campbell and Ryan",India,Sewing,tiffany44@example.net,581-826-0422x325,2022-03-10,5.0
+SUP0143,Thomas-Chen,Spain,Sewing,ebrooks@example.net,001-316-884-5775x90175,2022-09-27,3.3
+SUP0144,Donaldson and Sons,Spain,Cutting,sadams@example.com,+1-992-297-5001,2022-05-04,5.4
+SUP0145,Noble and Sons,Spain,Cutting,bbryant@example.org,001-824-624-1541x520,2022-10-18,1.7
+SUP0146,"Lyons, Young and Rios",Italy,Weaving,smiththomas@example.org,001-438-970-0516,2023-09-27,4.0
+SUP0147,Perez Inc,India,Raw Materials,garciamichael@example.com,(462)921-8909,2024-06-26,2.4
+SUP0148,Bowen-Fuller,Turkey,Weaving,samanthajensen@example.com,711.421.9656,2021-04-20,2.9
+SUP0149,Hill Inc,Turkey,Sewing,angelagreene@example.net,804-338-9836x4037,2023-05-29,5.9
+SUP0150,Porter PLC,Turkey,Raw Materials,ricetiffany@example.com,626-596-5827x10910,2024-02-07,8.5
+SUP0151,Livingston Group,Turkey,Finishing,courtney86@example.com,001-561-488-9241x418,2021-05-12,1.2
+SUP0152,"Murphy, Willis and Hines",Vietnam,Finishing,collinssamuel@example.org,6314617990,2023-02-16,5.3
+SUP0153,Smith and Sons,Italy,Cutting,martinstephanie@example.net,342.952.4105x64814,2023-01-28,8.7
+SUP0154,Dixon-Brown,Vietnam,Sewing,michaelscott@example.org,001-913-780-0030,2022-03-30,7.7
+SUP0155,Mora-White,India,Finishing,tranrobin@example.net,+1-263-453-6541x9518,2024-01-10,5.4
+SUP0156,Brock Inc,Italy,Sewing,djones@example.com,001-945-718-7053x49493,2022-07-16,1.3
+SUP0157,"Bonilla, Cuevas and Parsons",Italy,Sewing,edwardrandolph@example.org,585.505.0641,2024-05-02,8.6
+SUP0158,Vasquez-Brown,Spain,Finishing,jenniferdavis@example.org,865.471.9182x61990,2022-04-08,1.2
+SUP0159,Carter LLC,Turkey,Finishing,vhaynes@example.com,774-831-3291x21277,2022-02-05,7.0
+SUP0160,Herrera and Sons,Portugal,Sewing,qparker@example.org,524-790-3521,2024-07-02,8.8
+SUP0161,Palmer-Byrd,Spain,Raw Materials,lori20@example.com,488.531.7121x003,2023-10-21,4.4
+SUP0162,Watson-Mccoy,Spain,Sewing,aguilarjonathan@example.org,9132721510,2023-06-06,4.0
+SUP0163,Glass Group,Turkey,Cutting,ycrawford@example.net,(625)932-4472x09993,2022-11-24,3.3
+SUP0164,Andrade-Mendoza,Portugal,Sewing,ramirezderrick@example.org,+1-783-880-6578x7598,2025-02-25,7.7
+SUP0165,White-Flores,Portugal,Cutting,anthonycochran@example.com,5786593213,2024-01-02,6.9
+SUP0166,"Velasquez, Stark and Brown",Vietnam,Raw Materials,barbaramcgrath@example.com,(422)539-5590x599,2025-02-01,9.5
+SUP0167,Weaver-Thompson,Spain,Raw Materials,davisjesse@example.org,4877059325,2021-10-11,2.4
+SUP0168,Johnson PLC,Spain,Sewing,kimmathis@example.com,456-891-5452,2021-07-04,2.0
+SUP0169,"Yu, Banks and Thompson",Spain,Sewing,jeffrey92@example.com,542-320-9690x2959,2021-05-04,3.3
+SUP0170,Taylor-Mcgee,Italy,Weaving,michaelflores@example.net,657-304-3315,2021-11-12,6.5
+SUP0171,"Smith, Cruz and Oconnor",China,Raw Materials,nicolesnyder@example.com,(286)717-9327x104,2024-05-05,9.7
+SUP0172,Lynn-Jones,Portugal,Finishing,pamelamartin@example.org,+1-815-499-7062,2025-02-12,9.4
+SUP0173,Garcia and Sons,India,Sewing,robertspencer@example.net,+1-944-443-1069,2023-01-14,9.5
+SUP0174,Ward Group,Spain,Raw Materials,phillipsebony@example.net,931.603.2417x1467,2021-12-10,7.2
+SUP0175,May Group,China,Weaving,nathanjames@example.org,304.777.4349x021,2024-09-09,7.3
+SUP0176,"Gutierrez, Avila and Perez",Italy,Finishing,randallloretta@example.com,+1-479-337-4160,2024-08-01,8.2
+SUP0177,Thompson-Joyce,India,Raw Materials,lindseymartinez@example.com,863-829-4511,2023-04-25,5.8
+SUP0178,"Nguyen, Hill and Ellis",China,Cutting,buchanancindy@example.net,(716)822-9991x19148,2024-11-15,5.6
+SUP0179,Reyes-Washington,Italy,Raw Materials,rjohnson@example.com,(999)660-6530,2022-11-27,8.4
+SUP0180,Smith-Roth,Portugal,Sewing,larry71@example.org,(947)554-6913,2023-03-26,6.7
+SUP0181,Figueroa-Malone,Vietnam,Sewing,lori82@example.org,986-228-9023x3030,2021-04-18,2.4
+SUP0182,Bush-Hill,Spain,Finishing,owagner@example.org,+1-603-357-9727x98552,2021-08-12,3.4
+SUP0183,Johnson-Williams,Vietnam,Finishing,mercedesholland@example.net,246.580.0722,2022-07-20,5.2
+SUP0184,Franklin-Hahn,Vietnam,Finishing,rodney65@example.com,637-648-9691x085,2023-10-04,3.9
+SUP0185,"Rodriguez, Brown and Mcneil",Spain,Raw Materials,michelle44@example.org,(983)609-6520,2023-09-12,8.9
+SUP0186,Meadows-Sullivan,Spain,Sewing,aguilarwanda@example.org,638-475-8428x24172,2022-01-24,6.5
+SUP0187,"Lam, Pena and Walker",Turkey,Cutting,julieparker@example.com,(949)547-1709x991,2025-02-06,5.4
+SUP0188,"Wilson, Becker and Moreno",Italy,Weaving,jbrown@example.org,956.797.2521,2022-07-12,2.9
+SUP0189,"Hatfield, Edwards and Brown",Vietnam,Cutting,whill@example.org,001-827-912-9666,2023-05-09,3.5
+SUP0190,Smith-Ferguson,India,Cutting,stephanie58@example.org,6034354216,2022-02-22,1.1
+SUP0191,Colon LLC,Spain,Raw Materials,stephen89@example.net,262-457-5326x03323,2023-11-28,7.5
+SUP0192,Richardson Ltd,Turkey,Finishing,brooksdanielle@example.net,+1-609-901-0016x761,2023-11-30,7.2
+SUP0193,"Hernandez, Neal and Mccoy",China,Sewing,robert18@example.com,+1-592-561-8914x117,2022-10-01,8.1
+SUP0194,Decker-Dudley,Portugal,Cutting,jade42@example.org,+1-373-975-3001,2024-01-08,4.6
+SUP0195,Herring PLC,Spain,Cutting,cummingscraig@example.com,+1-837-344-7012x0455,2021-07-16,6.2
+SUP0196,York Inc,Turkey,Finishing,christianelizabeth@example.org,857-994-1552x16674,2022-04-14,4.1
+SUP0197,Banks-Robles,China,Finishing,andersonjessica@example.org,769-279-7296,2023-05-29,4.2
+SUP0198,"Hobbs, Acosta and Snow",Turkey,Cutting,hknapp@example.com,301.845.0899x358,2023-07-18,3.3
+SUP0199,"Barber, Olson and Alvarado",Portugal,Weaving,jhernandez@example.net,7025877217,2023-06-29,2.1
+SUP0200,Cordova-Williams,India,Weaving,andreagray@example.org,377-997-1775,2024-03-09,2.9

@@ -1,0 +1,26 @@
+penalty_id,po_number,penalty_date,penalty_reason,penalty_amount_eur,customer
+PEN001,PO00090,2025-10-20,Late delivery,2258.67,UK Importer C
+PEN002,PO00165,2025-11-06,Late delivery,4258.53,US Retailer A
+PEN003,PO00400,2025-05-13,Incomplete shipment,2646.3,US Retailer A
+PEN004,PO00345,2025-10-23,Wrong item,724.6,Wholesaler D
+PEN005,PO00326,2025-04-09,Wrong item,3816.68,UK Importer C
+PEN006,PO00234,2025-11-13,Quality issue,1741.13,Wholesaler D
+PEN007,PO00203,2026-02-08,Wrong item,870.59,Wholesaler D
+PEN008,PO00180,2025-04-07,Wrong item,1653.83,Wholesaler D
+PEN009,PO00068,2025-07-10,Wrong item,3897.58,Wholesaler D
+PEN010,PO00035,2025-05-27,Quality issue,3466.05,US Retailer A
+PEN011,PO00191,2025-06-14,Late delivery,4722.72,EU Distributor B
+PEN012,PO00244,2025-07-18,Incomplete shipment,3095.89,US Retailer A
+PEN013,PO00398,2026-03-01,Quality issue,2005.35,Wholesaler D
+PEN014,PO00288,2025-04-08,Wrong item,591.95,EU Distributor B
+PEN015,PO00211,2025-09-01,Wrong item,649.7,US Retailer A
+PEN016,PO00362,2025-11-10,Incomplete shipment,2498.93,Wholesaler D
+PEN017,PO00261,2025-05-07,Incomplete shipment,1450.73,Wholesaler D
+PEN018,PO00331,2025-07-02,Wrong item,3496.42,US Retailer A
+PEN019,PO00242,2025-08-11,Late delivery,2965.97,EU Distributor B
+PEN020,PO00377,2025-12-03,Incomplete shipment,2392.83,Wholesaler D
+PEN021,PO00329,2025-05-16,Quality issue,3992.46,US Retailer A
+PEN022,PO00232,2025-06-17,Wrong item,1980.94,UK Importer C
+PEN023,PO00024,2025-05-04,Wrong item,2618.28,EU Distributor B
+PEN024,PO00213,2025-05-17,Incomplete shipment,1871.06,EU Distributor B
+PEN025,PO00356,2025-06-16,Wrong item,4943.35,US Retailer A

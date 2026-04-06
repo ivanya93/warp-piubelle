@@ -1,0 +1,121 @@
+po_number,supplier_id,supplier_name,email_date,subject,body,sender,has_delay_signal
+PO00210,SUP0022,Williams-Graham,2026-03-29,UPDATE: PO00210 - atraso,Supplier Williams-Graham has indicated a potential atraso on PO00210,supplier,True
+PO00281,SUP0028,Stein-Silva,2026-03-24,RE: PO00281 - Status Update,On schedule for delivery of PO00281 as planned.,supplier,False
+PO00034,SUP0171,"Smith, Cruz and Oconnor",2026-03-08,UPDATE: PO00034 - delay,"Supplier Smith, Cruz and Oconnor has indicated a potential unable to deliver by on PO00034",supplier,True
+PO00211,SUP0162,Watson-Mccoy,2026-04-01,UPDATE: PO00211 - postpone,Supplier Watson-Mccoy has indicated a potential atraso on PO00211,supplier,True
+PO00094,SUP0058,"Lewis, Fowler and Maddox",2026-03-17,RE: PO00094 - Status Update,On schedule for delivery of PO00094 as planned.,supplier,False
+PO00085,SUP0154,Dixon-Brown,2026-03-26,UPDATE: PO00085 - delay,Supplier Dixon-Brown has indicated a potential later than on PO00085,supplier,True
+PO00330,SUP0068,Murphy-Smith,2026-03-08,RE: PO00330 - Status Update,On schedule for delivery of PO00330 as planned.,supplier,False
+PO00095,SUP0013,Barrera-Martin,2026-03-06,RE: PO00095 - Status Update,On schedule for delivery of PO00095 as planned.,supplier,False
+PO00267,SUP0165,White-Flores,2026-03-15,UPDATE: PO00267 - rescheduled,Supplier White-Flores has indicated a potential cannot guarantee on PO00267,supplier,True
+PO00127,SUP0089,Roach Group,2026-03-31,UPDATE: PO00127 - issue,Supplier Roach Group has indicated a potential postpone on PO00127,supplier,True
+PO00010,SUP0116,"Thomas, Ford and Brown",2026-03-31,RE: PO00010 - Status Update,On schedule for delivery of PO00010 as planned.,supplier,False
+PO00362,SUP0067,Nelson-Fischer,2026-03-19,RE: PO00362 - Status Update,On schedule for delivery of PO00362 as planned.,supplier,False
+PO00057,SUP0166,"Velasquez, Stark and Brown",2026-03-13,RE: PO00057 - Status Update,On schedule for delivery of PO00057 as planned.,supplier,False
+PO00073,SUP0065,White Ltd,2026-03-15,RE: PO00073 - Status Update,On schedule for delivery of PO00073 as planned.,supplier,False
+PO00133,SUP0200,Cordova-Williams,2026-03-25,RE: PO00133 - Status Update,On schedule for delivery of PO00133 as planned.,supplier,False
+PO00043,SUP0178,"Nguyen, Hill and Ellis",2026-03-18,RE: PO00043 - Status Update,On schedule for delivery of PO00043 as planned.,supplier,False
+PO00279,SUP0091,Day-Cole,2026-03-17,UPDATE: PO00279 - delay,Supplier Day-Cole has indicated a potential issue on PO00279,supplier,True
+PO00377,SUP0031,"Hernandez, Martinez and Caldwell",2026-03-11,RE: PO00377 - Status Update,On schedule for delivery of PO00377 as planned.,supplier,False
+PO00232,SUP0027,Orozco-Miller,2026-03-20,UPDATE: PO00232 - rescheduled,Supplier Orozco-Miller has indicated a potential difficult on PO00232,supplier,True
+PO00386,SUP0046,Weeks PLC,2026-03-23,RE: PO00386 - Status Update,On schedule for delivery of PO00386 as planned.,supplier,False
+PO00078,SUP0062,"Wilson, Pena and Rich",2026-03-29,RE: PO00078 - Status Update,On schedule for delivery of PO00078 as planned.,supplier,False
+PO00016,SUP0140,Cunningham-Barton,2026-03-07,UPDATE: PO00016 - postpone,Supplier Cunningham-Barton has indicated a potential cannot guarantee on PO00016,supplier,True
+PO00392,SUP0034,Christensen PLC,2026-03-17,RE: PO00392 - Status Update,On schedule for delivery of PO00392 as planned.,supplier,False
+PO00272,SUP0118,Arnold LLC,2026-03-22,UPDATE: PO00272 - unable to deliver by,Supplier Arnold LLC has indicated a potential cannot guarantee on PO00272,supplier,True
+PO00001,SUP0096,Johnson-Landry,2026-04-03,UPDATE: PO00001 - rescheduled,Supplier Johnson-Landry has indicated a potential later than on PO00001,supplier,True
+PO00397,SUP0098,"Mcmillan, Fischer and Gonzalez",2026-03-14,UPDATE: PO00397 - unexpected,"Supplier Mcmillan, Fischer and Gonzalez has indicated a potential issue on PO00397",supplier,True
+PO00115,SUP0041,Martin LLC,2026-04-03,RE: PO00115 - Status Update,On schedule for delivery of PO00115 as planned.,supplier,False
+PO00226,SUP0041,Martin LLC,2026-03-25,RE: PO00226 - Status Update,On schedule for delivery of PO00226 as planned.,supplier,False
+PO00263,SUP0117,Adams Ltd,2026-03-10,RE: PO00263 - Status Update,On schedule for delivery of PO00263 as planned.,supplier,False
+PO00105,SUP0014,"Woods, Calhoun and Schmidt",2026-03-12,RE: PO00105 - Status Update,On schedule for delivery of PO00105 as planned.,supplier,False
+PO00396,SUP0030,Murphy-Gibson,2026-03-29,RE: PO00396 - Status Update,On schedule for delivery of PO00396 as planned.,supplier,False
+PO00194,SUP0061,"Browning, Jones and Miller",2026-03-18,UPDATE: PO00194 - unable to deliver by,"Supplier Browning, Jones and Miller has indicated a potential unexpected on PO00194",supplier,True
+PO00262,SUP0091,Day-Cole,2026-03-13,RE: PO00262 - Status Update,On schedule for delivery of PO00262 as planned.,supplier,False
+PO00058,SUP0196,York Inc,2026-03-31,RE: PO00058 - Status Update,On schedule for delivery of PO00058 as planned.,supplier,False
+PO00233,SUP0188,"Wilson, Becker and Moreno",2026-03-30,UPDATE: PO00233 - later than,"Supplier Wilson, Becker and Moreno has indicated a potential issue on PO00233",supplier,True
+PO00117,SUP0132,Sandoval LLC,2026-03-23,RE: PO00117 - Status Update,On schedule for delivery of PO00117 as planned.,supplier,False
+PO00114,SUP0071,"Wolf, Cole and Glass",2026-03-14,RE: PO00114 - Status Update,On schedule for delivery of PO00114 as planned.,supplier,False
+PO00343,SUP0079,Velasquez LLC,2026-03-30,UPDATE: PO00343 - problema,Supplier Velasquez LLC has indicated a potential difficult on PO00343,supplier,True
+PO00159,SUP0157,"Bonilla, Cuevas and Parsons",2026-03-08,UPDATE: PO00159 - unable to deliver by,"Supplier Bonilla, Cuevas and Parsons has indicated a potential atraso on PO00159",supplier,True
+PO00142,SUP0111,"Roman, Cummings and Foster",2026-03-10,RE: PO00142 - Status Update,On schedule for delivery of PO00142 as planned.,supplier,False
+PO00382,SUP0050,Jordan-Sanchez,2026-03-30,RE: PO00382 - Status Update,On schedule for delivery of PO00382 as planned.,supplier,False
+PO00056,SUP0048,Garcia-Lozano,2026-03-30,UPDATE: PO00056 - unable to deliver by,Supplier Garcia-Lozano has indicated a potential delay on PO00056,supplier,True
+PO00077,SUP0001,"Rodriguez, Figueroa and Sanchez",2026-03-11,UPDATE: PO00077 - postpone,"Supplier Rodriguez, Figueroa and Sanchez has indicated a potential unable to deliver by on PO00077",supplier,True
+PO00026,SUP0029,Price Ltd,2026-03-12,RE: PO00026 - Status Update,On schedule for delivery of PO00026 as planned.,supplier,False
+PO00083,SUP0057,Gilbert-Crosby,2026-03-06,RE: PO00083 - Status Update,On schedule for delivery of PO00083 as planned.,supplier,False
+PO00383,SUP0118,Arnold LLC,2026-03-30,RE: PO00383 - Status Update,On schedule for delivery of PO00383 as planned.,supplier,False
+PO00149,SUP0017,Jacobs-Robbins,2026-03-26,RE: PO00149 - Status Update,On schedule for delivery of PO00149 as planned.,supplier,False
+PO00182,SUP0067,Nelson-Fischer,2026-03-18,RE: PO00182 - Status Update,On schedule for delivery of PO00182 as planned.,supplier,False
+PO00023,SUP0051,Little-Stevens,2026-03-17,RE: PO00023 - Status Update,On schedule for delivery of PO00023 as planned.,supplier,False
+PO00174,SUP0041,Martin LLC,2026-03-07,UPDATE: PO00174 - delay,Supplier Martin LLC has indicated a potential atraso on PO00174,supplier,True
+PO00047,SUP0200,Cordova-Williams,2026-03-08,RE: PO00047 - Status Update,On schedule for delivery of PO00047 as planned.,supplier,False
+PO00322,SUP0184,Franklin-Hahn,2026-03-10,UPDATE: PO00322 - issue,Supplier Franklin-Hahn has indicated a potential atraso on PO00322,supplier,True
+PO00339,SUP0154,Dixon-Brown,2026-03-26,RE: PO00339 - Status Update,On schedule for delivery of PO00339 as planned.,supplier,False
+PO00071,SUP0169,"Yu, Banks and Thompson",2026-03-30,RE: PO00071 - Status Update,On schedule for delivery of PO00071 as planned.,supplier,False
+PO00375,SUP0097,"Diaz, Powell and Williams",2026-03-10,UPDATE: PO00375 - difficult,"Supplier Diaz, Powell and Williams has indicated a potential unexpected on PO00375",supplier,True
+PO00040,SUP0040,Norris-Harrison,2026-03-23,UPDATE: PO00040 - rescheduled,Supplier Norris-Harrison has indicated a potential delay on PO00040,supplier,True
+PO00224,SUP0033,Hamilton LLC,2026-03-31,RE: PO00224 - Status Update,On schedule for delivery of PO00224 as planned.,supplier,False
+PO00173,SUP0166,"Velasquez, Stark and Brown",2026-04-04,UPDATE: PO00173 - unable to deliver by,"Supplier Velasquez, Stark and Brown has indicated a potential delay on PO00173",supplier,True
+PO00031,SUP0073,Shepherd LLC,2026-03-17,UPDATE: PO00031 - problema,Supplier Shepherd LLC has indicated a potential postpone on PO00031,supplier,True
+PO00153,SUP0038,Lopez-Williams,2026-04-02,RE: PO00153 - Status Update,On schedule for delivery of PO00153 as planned.,supplier,False
+PO00125,SUP0164,Andrade-Mendoza,2026-03-26,RE: PO00125 - Status Update,On schedule for delivery of PO00125 as planned.,supplier,False
+PO00295,SUP0093,Miller Ltd,2026-04-04,RE: PO00295 - Status Update,On schedule for delivery of PO00295 as planned.,supplier,False
+PO00256,SUP0120,Oconnor LLC,2026-03-16,UPDATE: PO00256 - atraso,Supplier Oconnor LLC has indicated a potential cannot guarantee on PO00256,supplier,True
+PO00079,SUP0107,Doyle LLC,2026-03-28,UPDATE: PO00079 - problema,Supplier Doyle LLC has indicated a potential later than on PO00079,supplier,True
+PO00102,SUP0076,Phillips Inc,2026-03-16,UPDATE: PO00102 - postpone,Supplier Phillips Inc has indicated a potential issue on PO00102,supplier,True
+PO00032,SUP0033,Hamilton LLC,2026-03-09,RE: PO00032 - Status Update,On schedule for delivery of PO00032 as planned.,supplier,False
+PO00353,SUP0171,"Smith, Cruz and Oconnor",2026-04-02,RE: PO00353 - Status Update,On schedule for delivery of PO00353 as planned.,supplier,False
+PO00269,SUP0099,Long PLC,2026-03-28,UPDATE: PO00269 - delay,Supplier Long PLC has indicated a potential delay on PO00269,supplier,True
+PO00395,SUP0005,Underwood LLC,2026-03-22,RE: PO00395 - Status Update,On schedule for delivery of PO00395 as planned.,supplier,False
+PO00074,SUP0162,Watson-Mccoy,2026-03-06,RE: PO00074 - Status Update,On schedule for delivery of PO00074 as planned.,supplier,False
+PO00321,SUP0053,"Davis, Burton and Williams",2026-03-21,RE: PO00321 - Status Update,On schedule for delivery of PO00321 as planned.,supplier,False
+PO00141,SUP0096,Johnson-Landry,2026-04-03,UPDATE: PO00141 - issue,Supplier Johnson-Landry has indicated a potential unexpected on PO00141,supplier,True
+PO00006,SUP0075,"Conner, Li and Santiago",2026-04-01,RE: PO00006 - Status Update,On schedule for delivery of PO00006 as planned.,supplier,False
+PO00046,SUP0158,Vasquez-Brown,2026-03-12,RE: PO00046 - Status Update,On schedule for delivery of PO00046 as planned.,supplier,False
+PO00389,SUP0067,Nelson-Fischer,2026-03-09,UPDATE: PO00389 - unexpected,Supplier Nelson-Fischer has indicated a potential postpone on PO00389,supplier,True
+PO00247,SUP0087,Thomas PLC,2026-03-23,UPDATE: PO00247 - later than,Supplier Thomas PLC has indicated a potential unable to deliver by on PO00247,supplier,True
+PO00228,SUP0031,"Hernandez, Martinez and Caldwell",2026-04-04,UPDATE: PO00228 - unable to deliver by,"Supplier Hernandez, Martinez and Caldwell has indicated a potential problema on PO00228",supplier,True
+PO00370,SUP0156,Brock Inc,2026-03-21,UPDATE: PO00370 - issue,Supplier Brock Inc has indicated a potential unexpected on PO00370,supplier,True
+PO00177,SUP0077,Rhodes-Young,2026-04-02,RE: PO00177 - Status Update,On schedule for delivery of PO00177 as planned.,supplier,False
+PO00290,SUP0094,Washington-Harris,2026-03-22,RE: PO00290 - Status Update,On schedule for delivery of PO00290 as planned.,supplier,False
+PO00004,SUP0139,"Wagner, Simpson and Cohen",2026-03-08,UPDATE: PO00004 - atraso,"Supplier Wagner, Simpson and Cohen has indicated a potential problema on PO00004",supplier,True
+PO00019,SUP0162,Watson-Mccoy,2026-03-08,RE: PO00019 - Status Update,On schedule for delivery of PO00019 as planned.,supplier,False
+PO00203,SUP0066,Peterson-Wood,2026-03-10,RE: PO00203 - Status Update,On schedule for delivery of PO00203 as planned.,supplier,False
+PO00251,SUP0084,"Parsons, Ellis and Carter",2026-04-04,RE: PO00251 - Status Update,On schedule for delivery of PO00251 as planned.,supplier,False
+PO00275,SUP0165,White-Flores,2026-03-10,RE: PO00275 - Status Update,On schedule for delivery of PO00275 as planned.,supplier,False
+PO00064,SUP0025,Ross-Hernandez,2026-03-26,RE: PO00064 - Status Update,On schedule for delivery of PO00064 as planned.,supplier,False
+PO00249,SUP0171,"Smith, Cruz and Oconnor",2026-03-22,UPDATE: PO00249 - problema,"Supplier Smith, Cruz and Oconnor has indicated a potential atraso on PO00249",supplier,True
+PO00302,SUP0084,"Parsons, Ellis and Carter",2026-03-23,UPDATE: PO00302 - issue,"Supplier Parsons, Ellis and Carter has indicated a potential atraso on PO00302",supplier,True
+PO00109,SUP0024,"Beck, Harvey and Davis",2026-03-06,RE: PO00109 - Status Update,On schedule for delivery of PO00109 as planned.,supplier,False
+PO00091,SUP0184,Franklin-Hahn,2026-03-21,UPDATE: PO00091 - rescheduled,Supplier Franklin-Hahn has indicated a potential difficult on PO00091,supplier,True
+PO00234,SUP0035,Allen Group,2026-03-07,UPDATE: PO00234 - unable to deliver by,Supplier Allen Group has indicated a potential rescheduled on PO00234,supplier,True
+PO00336,SUP0080,Mitchell Group,2026-03-22,RE: PO00336 - Status Update,On schedule for delivery of PO00336 as planned.,supplier,False
+PO00119,SUP0129,Smith-Foster,2026-03-11,UPDATE: PO00119 - problema,Supplier Smith-Foster has indicated a potential issue on PO00119,supplier,True
+PO00221,SUP0040,Norris-Harrison,2026-03-16,UPDATE: PO00221 - cannot guarantee,Supplier Norris-Harrison has indicated a potential delay on PO00221,supplier,True
+PO00181,SUP0177,Thompson-Joyce,2026-03-09,UPDATE: PO00181 - unexpected,Supplier Thompson-Joyce has indicated a potential atraso on PO00181,supplier,True
+PO00315,SUP0130,Bennett-Velasquez,2026-03-20,UPDATE: PO00315 - unable to deliver by,Supplier Bennett-Velasquez has indicated a potential atraso on PO00315,supplier,True
+PO00374,SUP0127,"Peters, Russell and Johnson",2026-03-19,RE: PO00374 - Status Update,On schedule for delivery of PO00374 as planned.,supplier,False
+PO00381,SUP0060,West-Cox,2026-04-04,RE: PO00381 - Status Update,On schedule for delivery of PO00381 as planned.,supplier,False
+PO00240,SUP0192,Richardson Ltd,2026-03-09,RE: PO00240 - Status Update,On schedule for delivery of PO00240 as planned.,supplier,False
+PO00076,SUP0197,Banks-Robles,2026-03-16,RE: PO00076 - Status Update,On schedule for delivery of PO00076 as planned.,supplier,False
+PO00248,SUP0019,"Garcia, Deleon and Henson",2026-03-29,UPDATE: PO00248 - postpone,"Supplier Garcia, Deleon and Henson has indicated a potential delay on PO00248",supplier,True
+PO00111,SUP0086,Miller Ltd,2026-03-07,UPDATE: PO00111 - later than,Supplier Miller Ltd has indicated a potential problema on PO00111,supplier,True
+PO00017,SUP0111,"Roman, Cummings and Foster",2026-03-21,UPDATE: PO00017 - issue,"Supplier Roman, Cummings and Foster has indicated a potential atraso on PO00017",supplier,True
+PO00067,SUP0160,Herrera and Sons,2026-03-11,RE: PO00067 - Status Update,On schedule for delivery of PO00067 as planned.,supplier,False
+PO00154,SUP0046,Weeks PLC,2026-03-28,UPDATE: PO00154 - unexpected,Supplier Weeks PLC has indicated a potential unable to deliver by on PO00154,supplier,True
+PO00008,SUP0012,Ramirez and Sons,2026-03-10,UPDATE: PO00008 - unexpected,Supplier Ramirez and Sons has indicated a potential cannot guarantee on PO00008,supplier,True
+PO00020,SUP0063,Davis-Rodgers,2026-03-27,RE: PO00020 - Status Update,On schedule for delivery of PO00020 as planned.,supplier,False
+PO00138,SUP0199,"Barber, Olson and Alvarado",2026-03-11,RE: PO00138 - Status Update,On schedule for delivery of PO00138 as planned.,supplier,False
+PO00356,SUP0052,James LLC,2026-03-30,UPDATE: PO00356 - issue,Supplier James LLC has indicated a potential later than on PO00356,supplier,True
+PO00350,SUP0008,"Ashley, Nielsen and Sellers",2026-03-24,RE: PO00350 - Status Update,On schedule for delivery of PO00350 as planned.,supplier,False
+PO00132,SUP0165,White-Flores,2026-03-23,RE: PO00132 - Status Update,On schedule for delivery of PO00132 as planned.,supplier,False
+PO00388,SUP0130,Bennett-Velasquez,2026-03-31,RE: PO00388 - Status Update,On schedule for delivery of PO00388 as planned.,supplier,False
+PO00293,SUP0066,Peterson-Wood,2026-03-17,UPDATE: PO00293 - rescheduled,Supplier Peterson-Wood has indicated a potential postpone on PO00293,supplier,True
+PO00387,SUP0177,Thompson-Joyce,2026-03-29,RE: PO00387 - Status Update,On schedule for delivery of PO00387 as planned.,supplier,False
+PO00298,SUP0081,Young-Martinez,2026-03-12,RE: PO00298 - Status Update,On schedule for delivery of PO00298 as planned.,supplier,False
+PO00061,SUP0106,Smith PLC,2026-04-02,RE: PO00061 - Status Update,On schedule for delivery of PO00061 as planned.,supplier,False
+PO00080,SUP0136,"Stokes, Brown and Garcia",2026-04-04,RE: PO00080 - Status Update,On schedule for delivery of PO00080 as planned.,supplier,False
+PO00286,SUP0019,"Garcia, Deleon and Henson",2026-03-28,RE: PO00286 - Status Update,On schedule for delivery of PO00286 as planned.,supplier,False
+PO00306,SUP0047,Cantu-Kane,2026-03-25,RE: PO00306 - Status Update,On schedule for delivery of PO00306 as planned.,supplier,False
+PO00282,SUP0033,Hamilton LLC,2026-03-25,RE: PO00282 - Status Update,On schedule for delivery of PO00282 as planned.,supplier,False
