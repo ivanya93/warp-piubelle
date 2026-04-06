@@ -76,6 +76,19 @@ Ask the agent anything about supplier management:
 ## How It Works (Human-in-the-Loop)
 
 ---
+## 📊 How We Score Suppliers
+
+WARP uses a six-dimension scoring model (1–10) to assess supplier risk:
+
+- **On-time delivery rate** (35%) — Primary KPI
+- **Delay duration** (20%) — Financial impact
+- **Penalty history** (15%) — Accountability
+- **Last-minute notices** (15%) — Planning visibility
+- **Email responsiveness** (10%) — Communication
+- **Trend** (5%) — Direction signal
+
+**See [WARP_Scoring_Guide.md](docs/WARP_Scoring_Guide.md)** for detailed calculations, examples, and GDPR-compliant alternative supplier search.
+---
 ## 🚀 Quick Start
 
 ### 1. Clone the Repository
