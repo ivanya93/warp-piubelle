@@ -91,6 +91,7 @@ Opens at `http://localhost:8501`
 
 ## 📁 Project Structure
 
+```text
 warp-piubelle/
 ├── data/
 │   ├── generate_data.py              # Synthetic data generator
@@ -137,7 +138,7 @@ warp-piubelle/
 ├── .env.example
 ├── README.md                         # This file
 └── WARP_SKILL.md                     # Technical specification
-
+```
 ---
 
 ## 🧪 Running Tests
